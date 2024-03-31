@@ -2,7 +2,7 @@
 - 👀 I’m interested in ecology
 - 🌱 I’m currently learning ecology
 - 💞️ I’m looking to collaborate on ecology
-- 📫 How to reach me, don't.
+- 📫 How to reach me.
 
 <!---
 quintavious101/quintavious101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

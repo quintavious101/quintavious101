@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @quintavious101
-- 👀 I’m interested in ecology
-- 🌱 I’m currently learning ecology
-- 💞️ I’m looking to collaborate on ecology
-- 📫 How to reach me.
+Hi, I’m Quinn Collins (they/them)
+- I’m interested in ecology
+- I’m looking to collaborate on statistical ecological analysis projects
+- 📫 How to reach me: quinnxcollins@gmail.com
 
 <!---
 quintavious101/quintavious101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,5 @@
 Hi, I’m Quinn Collins (they/them)
 - I’m interested in ecology
-- I’m looking to collaborate on statistical ecological analysis projects
 - 📫 How to reach me: quinnxcollins@gmail.com
 
 <!---
